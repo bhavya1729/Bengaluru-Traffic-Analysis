@@ -1,2 +1,3 @@
 # Banglore-Traffic-Analysis
 Using Python and libraries like Pandas, NumPy, Matplotlib, and Seaborn, I analyzed a pre-cleaned Kaggle traffic dataset to extract key insights.Exploratory Data Analysis (EDA) revealed Wednesdays have the highest traffic, Fridays the lowest, and June records peak congestion, while January sees the least. An inverse relationship exists between traffic volume and average speed, with Koramangala being the most congested and Electronic City the least due to better parking availability and pedestrian activity. Sony World Junction and Sarjapur Road are major congestion hotspots.
+data source: https://www.kaggle.com/datasets/preethamgouda/banglore-city-traffic-dataset/code
